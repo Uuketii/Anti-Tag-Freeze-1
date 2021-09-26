@@ -9,7 +9,6 @@
     "packageVersion": "1.1.0",
     "description": "Disable tag freeze when everyone or you become(s) tagged",
     "coverImage": "cover.jpg",
-    "type": "Gameplay",
     "dependencies": [
         {
             "id": "monkecodegen",
